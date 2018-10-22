@@ -26,3 +26,5 @@ MANIFEST.MF
 *.log
 *.dll
 *.exe
+*.iml
+*.eml
